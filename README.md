@@ -2,7 +2,7 @@
 
 Basic Implementations of Supervised Machine Learning Algorithms
 > Please read: 
-No standard libraries like numpy or scikitlearn are used, (these implementations are just to get a feel of how those standard libraries work). The implemented algorithms may not be used on very large datasets as it might be slow or have very low accuracy. always check the accuracy of the prediction after the training to ascertain the effectiveness of the training
+No standard libraries like numpy or scikitlearn are used, (these implementations are just to get a feel of how those standard libraries work). All the implementations can be simply done using those standard libraries with very few lines of code. The implemented algorithms may not be used on very large datasets as it might be slow or have very low accuracy. always check the accuracy of the prediction after the training to ascertain the effectiveness of the training
 
 ## Table of Contents
 
